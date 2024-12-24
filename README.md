@@ -1,2 +1,2 @@
 # delta-demo
-I am Learning Git &amp; Github
+I am Learning Git &amp; Github.
